@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="banner3.jpg" width="100%" alt="Banner"/>
+  <img src="banner3.jpg" width="80%" height="70%" alt="Banner"/>
 </p>
 
 <h3 align="center">
@@ -45,7 +45,7 @@ Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia e 
 
 ---
 
-#  Tech Stack
+#  Tecnologias
 
 <p align="center">
 
@@ -63,21 +63,7 @@ Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia e 
 
 </p>
 
-
-
-#  Objetivos
-
-✅ Conseguir minha primeira oportunidade na tecnologia
-
-✅ Evoluir constantemente minhas habilidades
-
-✅ Contribuir
-
-✅ Criar aplicações
-
----
-
-# 🎮 Fora da programação
+Fora da programação
 
 🎮 CS2
 
@@ -89,20 +75,3 @@ Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia e 
 
 🐱 Gatos
 
----
-
-#  Visitor Count
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=IsmaelPaulo&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
-
-<p align="center">
-
-###  Obrigado pela visita!
-
-</p>
