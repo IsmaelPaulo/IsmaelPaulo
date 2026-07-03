@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="banner3.jpg" width="80%" height="50%" alt="Banner" />
+  <img src="banner3.jpg" width="60%"  alt="Banner" />
 </p>
 
 <h3 align="center">
