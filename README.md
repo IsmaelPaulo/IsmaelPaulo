@@ -1,5 +1,10 @@
+
 <p align="center">
-  <img src="banner.png" width="80%" alt="Banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&color=38BDF8&center=true&vCenter=true&width=800&lines=%E2%AD%90+Bem-vindo+ao+meu+perfil!+%E2%AD%90" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="banner.png" width="50%" alt="Banner"/>
 </p>
 
 <p align="center">
@@ -7,10 +12,7 @@
 </p>
 
 <h3 align="center">
-  Sobre mim
-
 Sou formado em Técnico **Análise e Desenvolvimento de Sistemas**.
-
 Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia e continuar crescendo profissionalmente.
 </h3>
 
@@ -19,7 +21,7 @@ Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia e 
 <table>
 <tr>
 
-<td width="50%">
+<td width="100%">
 
 ##  Connect with me
 
@@ -41,11 +43,6 @@ Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia e 
 
 </td>
 
-<td width="50%" align="center">
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
-
-</td>
 
 </tr>
 </table>
