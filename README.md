@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=2000&color=38BDF8&center=true&vCenter=true&width=1000&lines=%E2%AD%90+Bem+Vindo+ao+Meu+Perfil+%E2%AD%90;Ismael+Rostirola" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=2000&color=38BDF8&center=true&vCenter=true&width=1000&lines=%E2%AD%90+Bem+Vindo+ao+Meu+Perfil+%E2%AD%90" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@
 
 ---
 
-## 🐍 Contribuições
+## Commits
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/IsmaelPaulo/IsmaelPaulo/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -53,7 +53,7 @@
 
 ☕ Café + Código
 
-📚 Sempre aprendendo novas tecnologias
+📚 Sempre aprendendo
 
 🎧 Música
 
