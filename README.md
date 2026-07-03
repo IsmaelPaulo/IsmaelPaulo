@@ -41,23 +41,23 @@
 
 ---
 
+## 🐍 Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IsmaelPaulo/IsmaelPaulo/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 
 ```text
 🎮 FPS favorito: CS2
 
-☕ Café + Código + Criatividade
+☕ Café + Código
 
 📚 Sempre aprendendo novas tecnologias
 
-🎧 Música enquanto programo
+🎧 Música
 
 🐱 Gatos
 ```
 
 ---
-
-##  GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsmaelPaulo&theme=tokyonight&hide_border=true" />
-</p>
