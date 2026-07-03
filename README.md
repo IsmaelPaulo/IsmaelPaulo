@@ -1,14 +1,10 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=%3E+Bem-vindo+ao+meu+perfil...;%3E+Loading+...;Ismael+Rostirola+%E2%9C%94" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=2000&color=38BDF8&center=true&vCenter=true&width=1000&lines=%E2%AD%90+Bem+Vindo+ao+Meu+Perfil+%E2%AD%90;Ismael+Rostirola" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="banner.png" width="50%" alt="Banner"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Caf%C3%A9+%2B+C%C3%B3digo+%2B+Criatividade;Em+busca+da+primeira+oportunidade" />
+  <img src="banner3.jpg" width="100%" alt="Banner"/>
 </p>
 
 <h3 align="center">
