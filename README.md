@@ -21,23 +21,23 @@ Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia e 
 
 <td width="50%">
 
-## Connect with me
+##  Connect with me
+
+<p align="center">
 
 <a href="https://www.linkedin.com/in/ismael-rostirola-8021aa307/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<br>
 
 <a href="mailto:ismarostirol4@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br>
-
-<a href="https://ismaelpaulo.github.io/dev-portfolio/">
-<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="https://ismaelpaulo.github.io/dev-portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</p>
 
 </td>
 
@@ -56,22 +56,11 @@ Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia e 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,nodejs,postgres,github&perline=6"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,postgres,github&perline=8"/>
 
 </p>
 
 
-#  GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsmaelPaulo&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelPaulo&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # GitHub Streak
 
