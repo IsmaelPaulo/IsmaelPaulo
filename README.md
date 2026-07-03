@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="Banner"/>
+  <img src="banner.png" width="80%" alt="Banner"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Olá,+bem-vindo+ao+meu+perfil!;Eu+sou+Ismael+Rostirola;Dev+Full+Stack;Sempre+aprendendo." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Caf%C3%A9+%2B+C%C3%B3digo+%2B+Criatividade;Em+busca+da+primeira+oportunidade" />
 </p>
 
 <h3 align="center">
@@ -36,7 +36,7 @@ Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia e 
 <br>
 
 <a href="https://ismaelpaulo.github.io/dev-portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </td>
@@ -56,7 +56,7 @@ Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia e 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nodejs,java,spring,mysql,git,github,vscode&perline=6"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,nodejs,postgres,github&perline=6"/>
 
 </p>
 
@@ -83,7 +83,7 @@ Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia e 
 
 
 
-# 🎯 Objetivos
+#  Objetivos
 
 ✅ Conseguir minha primeira oportunidade na tecnologia
 
